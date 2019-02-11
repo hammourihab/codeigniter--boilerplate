@@ -1,0 +1,10 @@
+{
+	"description": "A codeigniter boilerplate to start any webapp as fast as possible.",
+	"name": "Codeigniter boilerplace",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.7",
+		"vlucas/phpdotenv": "2.5.1",
+		"nesbot/carbon": "dev-master"
+	}
+}
